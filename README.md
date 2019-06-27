@@ -1,8 +1,37 @@
 # Silicon microprobes
-Repository of filese related to design, dissemination, and use of silicon microprobes
+For information on obtaining pre-fabricated probes, please visit https://masmanidislab.neurobio.ucla.edu/technology.html
 
 
-Hello!
+***Silicon microprobe design files***
 
 
-For information on obtaining probes, please visit https://masmanidislab.neurobio.ucla.edu/technology.html
+*************************************
+
+***PCB design files***
+
+
+**********************
+
+
+***Electrode maps***
+
+
+
+Also see the PDF on plugging in 2 headstages
+
+
+********************
+
+
+***Instructional videos***
+
+
+
+**************************
+
+
+
+***Holder and head bar design files***
+
+
+**************************************
