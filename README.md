@@ -1,4 +1,4 @@
-# test-1
+# Silicon microprobes
 Repository of filese related to design, dissemination, and use of silicon microprobes
 
 
