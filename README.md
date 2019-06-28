@@ -48,7 +48,7 @@ For information on obtaining pre-fabricated probes, visit https://masmanidislab.
 
 
 
-***Holder and head bar design files***
+***Miscellaneous design files***
 
 1.  Holder and head bar designs.zip    - Fusion 360 STEP files for the plug-in holder, permanent holder, head bar, head bar holder.
 
