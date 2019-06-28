@@ -6,15 +6,17 @@ For information on obtaining pre-fabricated probes, visit https://masmanidislab.
 
 *******************************
 
+
 ***Silicon microprobe design files***
 
-1.
+1.  Silicon microprobe designs.dwg    - AutoCAD DWG file of an assortment of microprobe designs.  Units are in microns.
 
 2.  Reticle layout.dwg        - AutoCAD DWG file of the reticle.  Units are in microns.
 
 3.  Reticle layout GDS format.gds      - GDS file of the reticle.  Used for submitting order to MEMS foundry.
 
 *************************************
+
 
 ***PCB design files***
 
@@ -45,7 +47,6 @@ For information on obtaining pre-fabricated probes, visit https://masmanidislab.
 2.  Opto-microprobe assembly video.wmv    - Video showing the optical fiber attachment process.
 
 **************************
-
 
 
 ***Miscellaneous design files***
