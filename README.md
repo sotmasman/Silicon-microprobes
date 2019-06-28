@@ -33,17 +33,18 @@ For information on obtaining pre-fabricated probes, visit https://masmanidislab.
 
 ***Electrode maps***
 
+1.  Electrode maps.zip      Matlab M file scripts for plotting the electrode mapping of each probe.  See readme_first.txt.
 
-
-Also see the PDF on plugging in 2 headstages
-
+2.  plugging in 2 headstages for 256 ch probe.pdf    See this to correctly plug in two amplifiers on 256 ch probes.
 
 ********************
 
 
 ***Instructional videos***
 
+1.  Encapsulation video.wmv      Video showing the epoxy encapsulation process.
 
+2.  Opto-microprobe assembly video.wmv    Video showing the optical fiber attachment process.
 
 **************************
 
