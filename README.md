@@ -12,9 +12,7 @@ For information on obtaining pre-fabricated probes, visit https://masmanidislab.
 
 2.  Reticle layout.dwg        - AutoCAD DWG file of the reticle.  Units are in microns.
 
-3.  Reticle layout GDS format.gds      - GDS file of the reticle.  Used for submitting order to MEMS foundry..
-
-4.
+3.  Reticle layout GDS format.gds      - GDS file of the reticle.  Used for submitting order to MEMS foundry.
 
 *************************************
 
@@ -42,9 +40,9 @@ For information on obtaining pre-fabricated probes, visit https://masmanidislab.
 
 ***Instructional videos***
 
-1.  Encapsulation video.wmv      -Video showing the epoxy encapsulation process.
+1.  Encapsulation video.wmv      - Video showing the epoxy encapsulation process.
 
-2.  Opto-microprobe assembly video.wmv    -Video showing the optical fiber attachment process.
+2.  Opto-microprobe assembly video.wmv    - Video showing the optical fiber attachment process.
 
 **************************
 
@@ -52,5 +50,6 @@ For information on obtaining pre-fabricated probes, visit https://masmanidislab.
 
 ***Holder and head bar design files***
 
+1.  Holder and head bar designs.zip    - Fusion 360 STEP files for the plug-in holder, permanent holder, head bar, head bar holder.
 
 **************************************
