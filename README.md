@@ -8,19 +8,25 @@ For information on obtaining pre-fabricated probes, visit https://masmanidislab.
 
 ***Silicon microprobe design files***
 
+1.
 
+2.  Reticle layout.dwg        AutoCAD DWG file of the reticle.  Units are in microns.
+
+3.  Reticle layout GDS format.gds      GDS file of the reticle.  Used for submitting order to MEMS foundry..
+
+4.
 
 *************************************
 
 ***PCB design files***
 
-PCB designs.dwg              AutoCAD DWG file containing the standard 64, 128, and 256 ch PCB designs.
+1. PCB designs.dwg             AutoCAD DWG file containing the standard 64, 128, and 256 ch PCB designs.  Units are in microns.
 
-Gerber 64ch PCB.zip         Gerber files for a panel of 64 ch PCBs.  Useful for ordering PCBs.
+2. Gerber 64ch PCB.zip         Gerber files for a panel of 64 ch PCBs.  Used for submitting PCB order to manufacturer.
 
-Gerber 128ch PCB.zip         Gerber files for a panel of 128 ch PCBs.  Useful for ordering PCBs.
+3. Gerber 128ch PCB.zip         Gerber files for a panel of 128 ch PCBs.  Used for submitting PCB order to manufacturer.
 
-Gerber 256ch PCB.zip         Gerber files for a panel primarily containing 256 ch PCBs.  Useful for ordering PCBs.
+4. Gerber 256ch PCB.zip         Gerber files for a panel primarily containing 256 ch PCBs.  Used for submitting PCB order to manufacturer.
 
 **********************
 
