@@ -28,6 +28,9 @@ For information on obtaining pre-fabricated probes, visit https://masmanidislab.
 
 4. Gerber 256ch PCB.zip         - Gerber files for a panel primarily containing 256 ch PCBs.  Used for submitting PCB order to manufacturer.
 
+5. Gerber 32ch PCB.zip          -Gerber files for 32 ch PCBs used for freely moving animal recordings.
+
+6. Gerber omnetics to molex adapter.zip    -Gerber files for an omnetics-to-molex adapter board.  Used for plugging in the 32 ch PCB into the Intan 128 ch amplifier board for electroplating.
 **********************
 
 
