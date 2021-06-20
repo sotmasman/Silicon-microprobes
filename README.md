@@ -11,9 +11,9 @@ For information on obtaining pre-fabricated probes, visit https://masmanidislab.
 
 1.  Silicon microprobe designs.dwg    - AutoCAD DWG file of an assortment of microprobe designs.  Units are in microns.
 
-2.  Reticle layout.dwg        - AutoCAD DWG file of the reticle.  Units are in microns.
+2.  reticle 2017.dwg and reticle 2017.dwg  - AutoCAD DWG files of the reticles from the 2017 and 2019 production runs.  Units are in microns.
 
-3.  Reticle layout GDS format.gds      - GDS file of the reticle.  Used for submitting order to MEMS foundry.
+3.  reticle 2017 GDS.gds and reticle 2019 GDS.gds      - GDS file of the reticle from the 2017 and 2019 production runs.  Used for submitting order to MEMS foundry.
 
 *************************************
 
