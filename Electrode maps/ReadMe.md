@@ -1,13 +1,10 @@
 A.  	Instructions for Initial Setup.
 
-Unzip and copy the contents of the folder microprobe wiring to your Matlab path.
-
 For new users:
 You must select the correct head stage developer in the file get_headstage_source.m located in the sub-folder microprobe wiring/headstage and pcb wiring.
 
 Selection only needs to take place once per computer; no further changes are necessary after that.
 
-If no selection is made, the default is the Intan 128 ch amplifier board.
 
 ************************************************************
 Instructions:
@@ -16,6 +13,7 @@ Instructions:
 
 2a.	If you are using an Intan Technologies headstage, type headstage_source='Intan';
 2b.	If you are using a UCLA head stage, type headstage_source='UCLA';
+2c. If you are using a WhiteMatter headstage, type headstage_source='eCube';
 
 3.  	Save the file.  No further changes are necessary.
 
